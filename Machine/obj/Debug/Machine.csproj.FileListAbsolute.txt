@@ -1,0 +1,9 @@
+c:\users\wexller\documents\visual studio 2015\Projects\Machine\Machine\bin\Debug\Machine.exe.config
+c:\users\wexller\documents\visual studio 2015\Projects\Machine\Machine\bin\Debug\Machine.exe
+c:\users\wexller\documents\visual studio 2015\Projects\Machine\Machine\bin\Debug\Machine.pdb
+c:\users\wexller\documents\visual studio 2015\Projects\Machine\Machine\obj\Debug\Machine.csprojResolveAssemblyReference.cache
+c:\users\wexller\documents\visual studio 2015\Projects\Machine\Machine\obj\Debug\Machine.Form1.resources
+c:\users\wexller\documents\visual studio 2015\Projects\Machine\Machine\obj\Debug\Machine.Properties.Resources.resources
+c:\users\wexller\documents\visual studio 2015\Projects\Machine\Machine\obj\Debug\Machine.csproj.GenerateResource.Cache
+c:\users\wexller\documents\visual studio 2015\Projects\Machine\Machine\obj\Debug\Machine.exe
+c:\users\wexller\documents\visual studio 2015\Projects\Machine\Machine\obj\Debug\Machine.pdb

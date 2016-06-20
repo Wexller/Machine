@@ -1,0 +1,10 @@
+C:\Users\Wexller\documents\visual studio 2015\Projects\Machine\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Wexller\documents\visual studio 2015\Projects\Machine\UnitTests\bin\Debug\UnitTests.exe.config
+C:\Users\Wexller\documents\visual studio 2015\Projects\Machine\UnitTests\bin\Debug\UnitTests.exe
+C:\Users\Wexller\documents\visual studio 2015\Projects\Machine\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Wexller\documents\visual studio 2015\Projects\Machine\UnitTests\bin\Debug\Machine.exe
+C:\Users\Wexller\documents\visual studio 2015\Projects\Machine\UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Wexller\documents\visual studio 2015\Projects\Machine\UnitTests\bin\Debug\Machine.pdb
+C:\Users\Wexller\documents\visual studio 2015\Projects\Machine\UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Wexller\documents\visual studio 2015\Projects\Machine\UnitTests\obj\Debug\UnitTests.exe
+C:\Users\Wexller\documents\visual studio 2015\Projects\Machine\UnitTests\obj\Debug\UnitTests.pdb

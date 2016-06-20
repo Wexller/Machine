@@ -1,0 +1,10 @@
+C:\Users\Wexller\Documents\Visual Studio 2015\Projects\Machine\Machine\bin\Release\Machine.exe.config
+C:\Users\Wexller\Documents\Visual Studio 2015\Projects\Machine\Machine\obj\Release\MachineGUI.csproj.ResolveComReference.cache
+C:\Users\Wexller\Documents\Visual Studio 2015\Projects\Machine\Machine\bin\Release\Machine.exe
+C:\Users\Wexller\Documents\Visual Studio 2015\Projects\Machine\Machine\bin\Release\Machine.pdb
+C:\Users\Wexller\Documents\Visual Studio 2015\Projects\Machine\Machine\obj\Release\MachineGUI.csprojResolveAssemblyReference.cache
+C:\Users\Wexller\Documents\Visual Studio 2015\Projects\Machine\Machine\obj\Release\Machine.MachineBuilderForm.resources
+C:\Users\Wexller\Documents\Visual Studio 2015\Projects\Machine\Machine\obj\Release\Machine.Properties.Resources.resources
+C:\Users\Wexller\Documents\Visual Studio 2015\Projects\Machine\Machine\obj\Release\MachineGUI.csproj.GenerateResource.Cache
+C:\Users\Wexller\Documents\Visual Studio 2015\Projects\Machine\Machine\obj\Release\Machine.exe
+C:\Users\Wexller\Documents\Visual Studio 2015\Projects\Machine\Machine\obj\Release\Machine.pdb
